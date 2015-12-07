@@ -27,9 +27,10 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About Me: "aboutme"
-  Author's home: "http://deanattali.com"
+  Resume/CV On LinkedIn: "https://www.linkedin.com/in/adamcodega"
+  Twitter: "https://www.twitter.com/adamcodega"
+  Home: ""
   
 # --- Footer options --- #
 
@@ -63,7 +64,7 @@ url-pretty: "Better Living Through IT"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-38730585-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
