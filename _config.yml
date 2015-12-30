@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "me"
   Resume/CV On LinkedIn: "https://www.linkedin.com/in/adamcodega"
   Twitter: "https://www.twitter.com/adamcodega"
   Home: ""
