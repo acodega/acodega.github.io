@@ -1,10 +1,11 @@
 ---
 layout: post
 subtitle: null
-date: ""
+date: "2016-03-09"
 published: true
 title: New Google Docs features to improve your documentation
 ---
+
 
 
 Everyone knows I'm a huge fan of Google for Work. (You can see my take on Cloud apps in the [2016 BetterCloud State of IT Round Table](http://blog.bettercloud.com/moving-to-the-cloud/))
