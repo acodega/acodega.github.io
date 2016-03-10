@@ -21,7 +21,7 @@ Done is better than perfect.
 
 When you're writing a Google Doc, if you use [header and subheader formatting](https://support.google.com/docs/answer/116338?hl=en), you can insert a Table Of Contents (from the Insert menu) which is generated from your headers.
 
-![Google Docs Table of Contents]({{site.baseurl}}/img/Screen Shot 2016-03-09 at 9.41.26 PM.png)
+![Google Docs Table of Contents]({{site.baseurl}}/img/gdoc-toc.png)
 
 Starting in the next few weeks, depending on how your organization handle release changes, Google Docs now features an Outline tool. The outline is a table of contents which displays on the left hand side of the Google Doc.
 
