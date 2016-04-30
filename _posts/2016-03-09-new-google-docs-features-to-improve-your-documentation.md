@@ -11,7 +11,7 @@ title: New Google Docs features to improve your documentation
 
 
 
-Everyone . knows I'm a huge fan of Google for Work. (You can see my take on Cloud apps in the [2016 BetterCloud State of IT Round Table](http://blog.bettercloud.com/moving-to-the-cloud/))
+Everyone knows I'm a huge fan of Google for Work. (You can see my take on Cloud apps in the [2016 BetterCloud State of IT Round Table](http://blog.bettercloud.com/moving-to-the-cloud/))
 
 Last week I noticed a great feature which Google expanded on today.
 
