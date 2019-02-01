@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Not How, but Why: Microsoft Office 365 for Mac'
 ---
-On January 24th, after a few delays leaving us on the edge of our seats, Microsoft delivered on it's WWDC 2018 promise and [Microsoft Office 365 arrived in the Mac App Store](https://itunes.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12). [Daz Wallace](https://dazwallace.wordpress.com/2019/01/30/migrating-microsoft-office-suite-to-mas-deployment/) and [Ben Toms](https://macmule.com/2019/01/26/deploying-microsoft-office-from-the-mac-app-store/) have great blog posts already online. Also, Microsoft has already updated their [Deployment guide for Office for Mac](https://docs.microsoft.com/en-us/deployoffice/mac/deployment-guide-for-office-for-mac), a great resource by itself.
+On January 24th, after a few delays leaving us on the edge of our seats, Microsoft delivered on its WWDC 2018 promise and [Microsoft Office 365 arrived in the Mac App Store](https://itunes.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12). [Daz Wallace](https://dazwallace.wordpress.com/2019/01/30/migrating-microsoft-office-suite-to-mas-deployment/) and [Ben Toms](https://macmule.com/2019/01/26/deploying-microsoft-office-from-the-mac-app-store/) have great blog posts already online. Also, Microsoft has already updated their [Deployment guide for Office for Mac](https://docs.microsoft.com/en-us/deployoffice/mac/deployment-guide-for-office-for-mac), a great resource by itself.
 
 Microsoft calls the traditionally deployed Office apps their "Microsoft CDN" version, versus the new App Store version. 
 
