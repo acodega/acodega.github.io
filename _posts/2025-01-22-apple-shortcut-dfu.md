@@ -1,3 +1,9 @@
+---
+layout: post
+published: true
+title: 'Apple Shortcut to DFU restore a Mac'
+---
+
 Hi there. Long time, no blog.
 
 I've got a lot to share about what I've been up to, but I wanted to share something simple for now. In my current role I am using Erase All Content & Settings or DFU'ing a Mac a lot. Like, **A LOT**. I can spend my morning testing a deployment going to 1:1 Macs, where I'll reset a Mac three or four times. Then in my afternoon I find myself testing app behavior on a shared Mac persona, and comparing the behavior on different macOS versions. There's lots of bongs and a few ["macOS contains.."](https://www.bonfire.com/store/macadmfound/)
